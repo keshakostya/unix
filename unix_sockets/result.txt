@@ -1,0 +1,301 @@
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 2 ====
+Just run test 1 several times
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+==== TEST 1 ====
+100 clients done
+Check server state by sending zero
+Received number from client 0. Current server state 0
+
+Check heap size
+Accept client 5, client sbrk 94511478484992
+Accept client 5, client sbrk 94511478484992
+==== TEST 3 ====
+Test 10 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 10 clients with 0.2 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 10 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 10 clients with 0.6 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 10 clients with 0.8 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 10 clients with 1.0 delay
+Client time 1001.000000
+Total time 1001
+Effective time 0
+Test 20 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 20 clients with 0.2 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 20 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 20 clients with 0.6 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 20 clients with 0.8 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 20 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 30 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 30 clients with 0.2 delay
+Client time 1.000000
+Total time 0
+Effective time -1.000000
+Test 30 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 30 clients with 0.6 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 30 clients with 0.8 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 30 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 40 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 40 clients with 0.2 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 40 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 40 clients with 0.6 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 40 clients with 0.8 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 40 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 50 clients with 0 delay
+Client time 0.000000
+Total time 1
+Effective time 1.000000
+Test 50 clients with 0.2 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 50 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 50 clients with 0.6 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 50 clients with 0.8 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 50 clients with 1.0 delay
+Client time 1001.000000
+Total time 1001
+Effective time 0
+Test 60 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 60 clients with 0.2 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 60 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 60 clients with 0.6 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 60 clients with 0.8 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 60 clients with 1.0 delay
+Client time 1001.000000
+Total time 1001
+Effective time 0
+Test 70 clients with 0 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 70 clients with 0.2 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 70 clients with 0.4 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 70 clients with 0.6 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 70 clients with 0.8 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 70 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 80 clients with 0 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 80 clients with 0.2 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 80 clients with 0.4 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 80 clients with 0.6 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 80 clients with 0.8 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 80 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 90 clients with 0 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 90 clients with 0.2 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 90 clients with 0.4 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 90 clients with 0.6 delay
+Client time 0.000000
+Total time 0
+Effective time 0
+Test 90 clients with 0.8 delay
+Client time 1.000000
+Total time 1
+Effective time 0
+Test 90 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
+Test 100 clients with 0 delay
+Client time 1.000000
+Total time 2
+Effective time 1.000000
+Test 100 clients with 0.2 delay
+Client time 2.000000
+Total time 2
+Effective time 0
+Test 100 clients with 0.4 delay
+Client time 2.000000
+Total time 2
+Effective time 0
+Test 100 clients with 0.6 delay
+Client time 2.000000
+Total time 2
+Effective time 0
+Test 100 clients with 0.8 delay
+Client time 2.000000
+Total time 2
+Effective time 0
+Test 100 clients with 1.0 delay
+Client time 1000.000000
+Total time 1000
+Effective time 0
